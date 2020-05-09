@@ -1,0 +1,2252 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "year": 1994,
+        "duration": 142,
+        "rating": 9.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "year": 1972,
+        "duration": 175,
+        "rating": 9.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "year": 2008,
+        "duration": 152,
+        "rating": 9,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Godfather: Part II",
+        "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+        "year": 1974,
+        "duration": 202,
+        "rating": 9,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "synopsis": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "year": 2003,
+        "duration": 201,
+        "rating": 8.9,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "year": 1994,
+        "duration": 154,
+        "rating": 8.9,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Schindler's List",
+        "synopsis": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "year": 1993,
+        "duration": 195,
+        "rating": 8.9,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "12 Angry Men",
+        "synopsis": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+        "year": 1957,
+        "duration": 96,
+        "rating": 8.9,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Inception",
+        "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+        "year": 2010,
+        "duration": 148,
+        "rating": 8.8,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Fight Club",
+        "synopsis": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "year": 1999,
+        "duration": 139,
+        "rating": 8.8,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "synopsis": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "year": 2001,
+        "duration": 178,
+        "rating": 8.8,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Forrest Gump",
+        "synopsis": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "year": 1994,
+        "duration": 142,
+        "rating": 8.8,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Anand",
+        "synopsis": "The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.",
+        "year": 1971,
+        "duration": 122,
+        "rating": 8.8,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmYzNmM2MDctZGY3Yi00NjRiLWIxZjctYjgzYTcxYTNhYTMyXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "synopsis": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+        "year": 1966,
+        "duration": 178,
+        "rating": 8.8,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers",
+        "synopsis": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+        "year": 2002,
+        "duration": 179,
+        "rating": 8.7,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Matrix",
+        "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "year": 1999,
+        "duration": 136,
+        "rating": 8.7,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Goodfellas",
+        "synopsis": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "year": 1990,
+        "duration": 146,
+        "rating": 8.7,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "synopsis": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+        "year": 1980,
+        "duration": 124,
+        "rating": 8.7,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest",
+        "synopsis": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+        "year": 1975,
+        "duration": 133,
+        "rating": 8.7,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Harakiri",
+        "synopsis": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+        "year": 1962,
+        "duration": 133,
+        "rating": 8.7,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY98_CR2,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Parasite",
+        "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+        "year": 2019,
+        "duration": 132,
+        "rating": 8.6,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "year": 2014,
+        "duration": 169,
+        "rating": 8.6,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "City of God",
+        "synopsis": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+        "year": 2002,
+        "duration": 130,
+        "rating": 8.6,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Spirited Away",
+        "synopsis": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+        "year": 2001,
+        "duration": 125,
+        "rating": 8.6,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Saving Private Ryan",
+        "synopsis": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "year": 1998,
+        "duration": 169,
+        "rating": 8.6,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Green Mile",
+        "synopsis": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "year": 1999,
+        "duration": 189,
+        "rating": 8.6,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Life Is Beautiful",
+        "synopsis": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+        "year": 1997,
+        "duration": 116,
+        "rating": 8.6,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Se7en",
+        "synopsis": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "year": 1995,
+        "duration": 127,
+        "rating": 8.6,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Silence of the Lambs",
+        "synopsis": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "year": 1991,
+        "duration": 118,
+        "rating": 8.6,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope",
+        "synopsis": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "year": 1977,
+        "duration": 121,
+        "rating": 8.6,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Seven Samurai",
+        "synopsis": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+        "year": 1954,
+        "duration": 207,
+        "rating": 8.6,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI1ZjhmMzktMDZhMy00MDhjLTk3YjAtMTNlZTA5MDI3NzQ3XkEyXkFqcGdeQXVyODkxNzAwMDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "It's a Wonderful Life",
+        "synopsis": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+        "year": 1946,
+        "duration": 130,
+        "rating": 8.6,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Joker",
+        "synopsis": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+        "year": 2019,
+        "duration": 122,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "synopsis": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+        "year": 2018,
+        "duration": 149,
+        "rating": 8.5,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Whiplash",
+        "synopsis": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+        "year": 2014,
+        "duration": 106,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Intouchables",
+        "synopsis": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+        "year": 2011,
+        "duration": 112,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Prestige",
+        "synopsis": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "year": 2006,
+        "duration": 130,
+        "rating": 8.5,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Departed",
+        "synopsis": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "year": 2006,
+        "duration": 151,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Pianist",
+        "synopsis": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "year": 2002,
+        "duration": 150,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR2,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Gladiator",
+        "synopsis": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "year": 2000,
+        "duration": 155,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "American History X",
+        "synopsis": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "year": 1998,
+        "duration": 119,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Usual Suspects",
+        "synopsis": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+        "year": 1995,
+        "duration": 106,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Léon: The Professional",
+        "synopsis": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+        "year": 1994,
+        "duration": 110,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDAwYTlhMDEtNTg0OS00NDY2LWJjOWItNWY3YTZkM2UxYzUzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Lion King",
+        "synopsis": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.",
+        "year": 1994,
+        "duration": 88,
+        "rating": 8.5,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Terminator 2: Judgment Day",
+        "synopsis": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+        "year": 1991,
+        "duration": 137,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Cinema Paradiso",
+        "synopsis": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+        "year": 1988,
+        "duration": 155,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Grave of the Fireflies",
+        "synopsis": "A young boy and his little sister struggle to survive in Japan during World War II.",
+        "year": 1988,
+        "duration": 89,
+        "rating": 8.5,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Back to the Future",
+        "synopsis": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+        "year": 1985,
+        "duration": 116,
+        "rating": 8.5,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Once Upon a Time in the West",
+        "synopsis": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+        "year": 1968,
+        "duration": 165,
+        "rating": 8.5,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "High and Low",
+        "synopsis": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+        "year": 1963,
+        "duration": 143,
+        "rating": 8.5,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Psycho",
+        "synopsis": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+        "year": 1960,
+        "duration": 109,
+        "rating": 8.5,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Casablanca",
+        "synopsis": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.",
+        "year": 1942,
+        "duration": 102,
+        "rating": 8.5,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Modern Times",
+        "synopsis": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+        "year": 1936,
+        "duration": 87,
+        "rating": 8.5,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "City Lights",
+        "synopsis": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+        "year": 1931,
+        "duration": 87,
+        "rating": 8.5,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Capernaum",
+        "synopsis": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+        "year": 2018,
+        "duration": 126,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Your Name.",
+        "synopsis": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+        "year": 2016,
+        "duration": 106,
+        "rating": 8.4,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Dangal",
+        "synopsis": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+        "year": 2016,
+        "duration": 161,
+        "rating": 8.4,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse",
+        "synopsis": "Teen Miles Morales becomes Spider-Man of his reality, crossing his path with five counterparts from other dimensions to stop a threat for all realities.",
+        "year": 2018,
+        "duration": 117,
+        "rating": 8.4,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "year": 2019,
+        "duration": 181,
+        "rating": 8.4,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Coco",
+        "synopsis": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+        "year": 2017,
+        "duration": 105,
+        "rating": 8.4,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Django Unchained",
+        "synopsis": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+        "year": 2012,
+        "duration": 165,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "synopsis": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+        "year": 2012,
+        "duration": 164,
+        "rating": 8.4,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "3 Idiots",
+        "synopsis": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+        "year": 2009,
+        "duration": 170,
+        "rating": 8.4,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Like Stars on Earth",
+        "synopsis": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+        "year": 2007,
+        "duration": 165,
+        "rating": 8.4,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "WALL·E",
+        "synopsis": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "year": 2008,
+        "duration": 98,
+        "rating": 8.4,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Lives of Others",
+        "synopsis": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+        "year": 2006,
+        "duration": 137,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Oldboy",
+        "synopsis": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+        "year": 2003,
+        "duration": 120,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Memento",
+        "synopsis": "A man with short-term memory loss attempts to track down his wife's murderer.",
+        "year": 2000,
+        "duration": 113,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Princess Mononoke",
+        "synopsis": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+        "year": 1997,
+        "duration": 134,
+        "rating": 8.4,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Once Upon a Time in America",
+        "synopsis": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+        "year": 1984,
+        "duration": 229,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Raiders of the Lost Ark",
+        "synopsis": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+        "year": 1981,
+        "duration": 115,
+        "rating": 8.4,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Shining",
+        "synopsis": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+        "year": 1980,
+        "duration": 146,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Apocalypse Now",
+        "synopsis": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+        "year": 1979,
+        "duration": 147,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Alien",
+        "synopsis": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+        "year": 1979,
+        "duration": 117,
+        "rating": 8.4,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Dr. Strangelove",
+        "synopsis": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+        "year": 1964,
+        "duration": 95,
+        "rating": 8.4,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Witness for the Prosecution",
+        "synopsis": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+        "year": 1957,
+        "duration": 116,
+        "rating": 8.4,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjEwMmE5MzYtYWExYy00ZjEzLTk4MjUtMmJmNzgxY2MxN2U1XkEyXkFqcGdeQXVyMTg2NTc4MzA@._V1_UY98_CR4,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Paths of Glory",
+        "synopsis": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+        "year": 1957,
+        "duration": 88,
+        "rating": 8.4,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY98_CR2,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Rear Window",
+        "synopsis": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+        "year": 1954,
+        "duration": 112,
+        "rating": 8.4,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjJkZGVjMDMtMzNmZS00NDQ3LWE1YWEtMDlmYjExMTA4MGFkXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Sunset Blvd.",
+        "synopsis": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+        "year": 1950,
+        "duration": 110,
+        "rating": 8.4,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Great Dictator",
+        "synopsis": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+        "year": 1940,
+        "duration": 125,
+        "rating": 8.4,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "1917",
+        "synopsis": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+        "year": 2019,
+        "duration": 119,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Andhadhun",
+        "synopsis": "A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.",
+        "year": 2018,
+        "duration": 139,
+        "rating": 8.3,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZhMjhhZmYtOTIzOC00MGYzLWI1OGYtM2ZkN2IxNTI4ZWI3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Hunt",
+        "synopsis": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+        "year": 2012,
+        "duration": 115,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDM2MzMwMzcxNF5BMl5BanBnXkFtZTcwNTczMDk3OA@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "A Separation",
+        "synopsis": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+        "year": 2011,
+        "duration": 123,
+        "rating": 8.3,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDRiZDY2YmEtZjMzNi00YTM4LWJkMmItYjFkNTQxMjQxNjA4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Incendies",
+        "synopsis": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+        "year": 2010,
+        "duration": 131,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "My Father and My Son",
+        "synopsis": "The family of a left-wing journalist is torn apart after a military coup in 1980's Turkey.",
+        "year": 2005,
+        "duration": 112,
+        "rating": 8.3,
+        "certificate": "",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Toy Story 3",
+        "synopsis": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+        "year": 2010,
+        "duration": 103,
+        "rating": 8.3,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Inglourious Basterds",
+        "synopsis": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+        "year": 2009,
+        "duration": 153,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "synopsis": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+        "year": 2004,
+        "duration": 108,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Amélie",
+        "synopsis": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+        "year": 2001,
+        "duration": 122,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Snatch",
+        "synopsis": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+        "year": 2000,
+        "duration": 102,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "synopsis": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+        "year": 2000,
+        "duration": 102,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "American Beauty",
+        "synopsis": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "year": 1999,
+        "duration": 122,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Good Will Hunting",
+        "synopsis": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+        "year": 1997,
+        "duration": 126,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Children of Heaven",
+        "synopsis": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+        "year": 1997,
+        "duration": 89,
+        "rating": 8.3,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Bandit",
+        "synopsis": "Baran the Bandit, released from prison after 35 years, searches for vengeance and his lover.",
+        "year": 1996,
+        "duration": 128,
+        "rating": 8.3,
+        "certificate": "TV-MA",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ4ZjFmYjktOGNkNS00OWYyLWIyZjgtMGJjM2U1ZTA0ZTlhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Toy Story",
+        "synopsis": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+        "year": 1995,
+        "duration": 81,
+        "rating": 8.3,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Braveheart",
+        "synopsis": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+        "year": 1995,
+        "duration": 178,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Reservoir Dogs",
+        "synopsis": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+        "year": 1992,
+        "duration": 99,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Full Metal Jacket",
+        "synopsis": "A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.",
+        "year": 1987,
+        "duration": 116,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Come and See",
+        "synopsis": "After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.",
+        "year": 1985,
+        "duration": 142,
+        "rating": 8.3,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Aliens",
+        "synopsis": "Ellen Ripley is rescued by a deep salvage team after being in hypersleep for 57 years. The moon that the Nostromo visited has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?",
+        "year": 1986,
+        "duration": 137,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Amadeus",
+        "synopsis": "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was insanely jealous of Mozart's talent and claimed to have murdered him.",
+        "year": 1984,
+        "duration": 160,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Scarface",
+        "synopsis": "In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+        "year": 1983,
+        "duration": 170,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "synopsis": "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+        "year": 1983,
+        "duration": 131,
+        "rating": 8.3,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Das Boot",
+        "synopsis": "The claustrophobic world of a WWII German U-boat; boredom, filth and sheer terror.",
+        "year": 1981,
+        "duration": 149,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGRmOWY0MGUtNTVhMy00NzRlLTljNDAtNTBiNTRlODgxNmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Taxi Driver",
+        "synopsis": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker and an underage prostitute.",
+        "year": 1976,
+        "duration": 114,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Sting",
+        "synopsis": "Two grifters team up to pull off the ultimate con.",
+        "year": 1973,
+        "duration": 129,
+        "rating": 8.3,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "A Clockwork Orange",
+        "synopsis": "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+        "year": 1971,
+        "duration": 136,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "2001: A Space Odyssey",
+        "synopsis": "After discovering a mysterious artifact buried beneath the Lunar surface, mankind sets off on a quest to find its origins with help from intelligent supercomputer H.A.L. 9000.",
+        "year": 1968,
+        "duration": 149,
+        "rating": 8.3,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "For a Few Dollars More",
+        "synopsis": "Two bounty hunters with the same intentions team up to track down a Western outlaw.",
+        "year": 1965,
+        "duration": 132,
+        "rating": 8.3,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWM1NmYyM2ItMTFhNy00NDU0LThlYWUtYjQyYTJmOTY0ZmM0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Lawrence of Arabia",
+        "synopsis": "The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.",
+        "year": 1962,
+        "duration": 228,
+        "rating": 8.3,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Apartment",
+        "synopsis": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+        "year": 1960,
+        "duration": 125,
+        "rating": 8.3,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "North by Northwest",
+        "synopsis": "A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies.",
+        "year": 1959,
+        "duration": 136,
+        "rating": 8.3,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Vertigo",
+        "synopsis": "A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.",
+        "year": 1958,
+        "duration": 128,
+        "rating": 8.3,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Singin' in the Rain",
+        "synopsis": "A silent film production company and cast make a difficult transition to sound.",
+        "year": 1952,
+        "duration": 103,
+        "rating": 8.3,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWUyNjQ5MTAtNDJhYS00MWQ0LTk2ZTAtZmE4MWNlMjMwMzg3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Ikiru",
+        "synopsis": "A bureaucrat tries to find a meaning in his life after he discovers he has terminal cancer.",
+        "year": 1952,
+        "duration": 143,
+        "rating": 8.3,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Bicycle Thieves",
+        "synopsis": "In post-war Italy, a working-class man's bicycle is stolen. He and his son set out to find it.",
+        "year": 1948,
+        "duration": 89,
+        "rating": 8.3,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Double Indemnity",
+        "synopsis": "An insurance representative lets himself be talked by a seductive housewife into a murder/insurance fraud scheme that arouses the suspicion of an insurance investigator.",
+        "year": 1944,
+        "duration": 107,
+        "rating": 8.3,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Citizen Kane",
+        "synopsis": "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance; 'Rosebud'.",
+        "year": 1941,
+        "duration": 119,
+        "rating": 8.3,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "M",
+        "synopsis": "When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.",
+        "year": 1931,
+        "duration": 99,
+        "rating": 8.3,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Metropolis",
+        "synopsis": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+        "year": 1927,
+        "duration": 153,
+        "rating": 8.3,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Kid",
+        "synopsis": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+        "year": 1921,
+        "duration": 68,
+        "rating": 8.3,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Portrait of a Lady on Fire",
+        "synopsis": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+        "year": 2019,
+        "duration": 122,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Green Book",
+        "synopsis": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+        "year": 2018,
+        "duration": 130,
+        "rating": 8.2,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "synopsis": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+        "year": 2017,
+        "duration": 115,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Klaus",
+        "synopsis": "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+        "year": 2019,
+        "duration": 96,
+        "rating": 8.2,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Drishyam",
+        "synopsis": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+        "year": 2015,
+        "duration": 163,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Winter Sleep",
+        "synopsis": "A hotel owner and landlord in a remote Turkish village deals with conflicts within his family and a tenant behind on his rent.",
+        "year": 2014,
+        "duration": 196,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTU1NTY2Mzg5M15BMl5BanBnXkFtZTgwNDcwNjM5MTE@._V1_UY98_CR2,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Gangs of Wasseypur",
+        "synopsis": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+        "year": 2012,
+        "duration": 321,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc5NjY4MjUwNF5BMl5BanBnXkFtZTgwODM3NzM5MzE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Secret in Their Eyes",
+        "synopsis": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.",
+        "year": 2009,
+        "duration": 129,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Warrior",
+        "synopsis": "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+        "year": 2011,
+        "duration": 140,
+        "rating": 8.2,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Up",
+        "synopsis": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.",
+        "year": 2009,
+        "duration": 96,
+        "rating": 8.2,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Wolf of Wall Street",
+        "synopsis": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "year": 2013,
+        "duration": 180,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "There Will Be Blood",
+        "synopsis": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.",
+        "year": 2007,
+        "duration": 158,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Pan's Labyrinth",
+        "synopsis": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.",
+        "year": 2006,
+        "duration": 118,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU3ODg2NjQ5NF5BMl5BanBnXkFtZTcwMDEwODgzMQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "V for Vendetta",
+        "synopsis": "In a future British tyranny, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow it with the help of a young woman.",
+        "year": 2005,
+        "duration": 132,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Rang De Basanti",
+        "synopsis": "The story of six young Indians who assist an English woman to film a documentary on the freedom fighters from their past, and the events that lead them to relive the long-forgotten saga of freedom.",
+        "year": 2006,
+        "duration": 167,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYThmZDA0YmQtMWJhNy00MDQwLTk0Y2YtMDhmZTE5ZjhlNjliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Batman Begins",
+        "synopsis": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.",
+        "year": 2005,
+        "duration": 140,
+        "rating": 8.2,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmUwNGU2ZmItMmRiNC00MjhlLTg5YWUtODMyNzkxODYzMmZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY98_CR3,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Downfall",
+        "synopsis": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+        "year": 2004,
+        "duration": 156,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Howl's Moving Castle",
+        "synopsis": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+        "year": 2004,
+        "duration": 119,
+        "rating": 8.2,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "A Beautiful Mind",
+        "synopsis": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "year": 2001,
+        "duration": 135,
+        "rating": 8.2,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "synopsis": "A botched card game in London triggers four friends, thugs, weed-growers, hard gangsters, loan sharks and debt collectors to collide with each other in a series of unexpected events, all for the sake of weed, cash and two antique shotguns.",
+        "year": 1998,
+        "duration": 107,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "L.A. Confidential",
+        "synopsis": "As corruption grows in 1950s Los Angeles, three policemen -- one strait-laced, one brutal, and one sleazy -- investigate a series of murders with their own brand of justice.",
+        "year": 1997,
+        "duration": 138,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Heat",
+        "synopsis": "A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.",
+        "year": 1995,
+        "duration": 170,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDc0YTQ5NGEtM2NkYS00MWRhLThiNzAtNmY3NWU3YzNkMjIyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Casino",
+        "synopsis": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
+        "year": 1995,
+        "duration": 178,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Unforgiven",
+        "synopsis": "Retired Old West gunslinger William Munny (Clint Eastwood) reluctantly takes on one last job, with the help of his old partner Ned Logan (Morgan Freeman) and a young man, The \"Schofield Kid\" (Jaimz Woolvett).",
+        "year": 1992,
+        "duration": 130,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade",
+        "synopsis": "In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry \"Indiana\" Jones, Jr. finds himself up against Adolf Hitler's Nazis again to stop them from obtaining its powers.",
+        "year": 1989,
+        "duration": 127,
+        "rating": 8.2,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjNkMzc2N2QtNjVlNS00ZTk5LTg0MTgtODY2MDAwNTMwZjBjXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "My Neighbor Totoro",
+        "synopsis": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+        "year": 1988,
+        "duration": 86,
+        "rating": 8.2,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Die Hard",
+        "synopsis": "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+        "year": 1988,
+        "duration": 132,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Ran",
+        "synopsis": "In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.",
+        "year": 1985,
+        "duration": 162,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDBjZTM4ZmEtOTA5ZC00NTQzLTkyNzYtMmUxNGU2YjI5YjU5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Raging Bull",
+        "synopsis": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+        "year": 1980,
+        "duration": 129,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Stalker",
+        "synopsis": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+        "year": 1979,
+        "duration": 162,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDgwODNmMGItMDcwYi00OWZjLTgyZjAtMGYwMmI4N2Q0NmJmXkEyXkFqcGdeQXVyNzY1MTU0Njk@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Monty Python and the Holy Grail",
+        "synopsis": "King Arthur (Graham Chapman) and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.",
+        "year": 1975,
+        "duration": 91,
+        "rating": 8.2,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Chinatown",
+        "synopsis": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption, and murder.",
+        "year": 1974,
+        "duration": 130,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGMwYmY5ZmEtMzY1Yi00OWJiLTk1Y2MtMzI2MjBhYmZkNTQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Andrei Rublev",
+        "synopsis": "The life, times and afflictions of the fifteenth-century Russian iconographer St. Andrei Rublev.",
+        "year": 1966,
+        "duration": 205,
+        "rating": 8.2,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjhkN2Q3MzctNzJiOC00OTc5LWIwOWYtNWRiYWUyMDk0MGZiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Great Escape",
+        "synopsis": "Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.",
+        "year": 1963,
+        "duration": 172,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "synopsis": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+        "year": 1962,
+        "duration": 129,
+        "rating": 8.2,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Yojimbo",
+        "synopsis": "A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.",
+        "year": 1961,
+        "duration": 110,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Judgment at Nuremberg",
+        "synopsis": "In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.",
+        "year": 1961,
+        "duration": 179,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDZjMTIwZTQtNTM3OS00OTUyLWI5MTMtOTNjYWVkNzhjMWIxXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Some Like It Hot",
+        "synopsis": "After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+        "year": 1959,
+        "duration": 121,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Wild Strawberries",
+        "synopsis": "After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.",
+        "year": 1957,
+        "duration": 91,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzdkODZlOGItY2RjZC00Mzc5LWI5NzMtZDUyMmNhNjljOWE2XkEyXkFqcGdeQXVyOTk4MjA5NjQ@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Seventh Seal",
+        "synopsis": "A man seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+        "year": 1957,
+        "duration": 96,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2I1ZWU4YjMtYzU0My00YmMzLWFmNTAtZDJhZGYwMmI3YWQ5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Dial M for Murder",
+        "synopsis": "A tennis player tries to arrange his wife's murder after learning of her affair.",
+        "year": 1954,
+        "duration": 105,
+        "rating": 8.2,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Tokyo Story",
+        "synopsis": "An old couple visit their children and grandchildren in the city, but receive little attention.",
+        "year": 1953,
+        "duration": 136,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Rashomon",
+        "synopsis": "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+        "year": 1950,
+        "duration": 88,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png"
+    },
+    {
+        "title": "All About Eve",
+        "synopsis": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+        "year": 1950,
+        "duration": 138,
+        "rating": 8.2,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre",
+        "synopsis": "Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+        "year": 1948,
+        "duration": 126,
+        "rating": 8.2,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "To Be or Not to Be",
+        "synopsis": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+        "year": 1942,
+        "duration": 99,
+        "rating": 8.2,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Gold Rush",
+        "synopsis": "A prospector goes to the Klondike in search of gold and finds it and more.",
+        "year": 1925,
+        "duration": 95,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY98_CR2,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Sherlock Jr.",
+        "synopsis": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+        "year": 1924,
+        "duration": 45,
+        "rating": 8.2,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Invisible Guest",
+        "synopsis": "A successful entrepreneur accused of murder and a witness preparation expert have less than three hours to come up with an impregnable defence.",
+        "year": 2016,
+        "duration": 106,
+        "rating": 8.1,
+        "certificate": "",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDk0YzAwYjktMWFiZi00Y2FmLWJmMmMtMzUyZDZmMmU5MjkzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Handmaiden",
+        "synopsis": "A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.",
+        "year": 2016,
+        "duration": 145,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Logan",
+        "synopsis": "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+        "year": 2017,
+        "duration": 137,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Room",
+        "synopsis": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+        "year": 2015,
+        "duration": 118,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Wild Tales",
+        "synopsis": "Six short stories that explore the extremities of human behavior involving people in distress.",
+        "year": 2014,
+        "duration": 122,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "PK",
+        "synopsis": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.",
+        "year": 2014,
+        "duration": 153,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzOTE2NjkxN15BMl5BanBnXkFtZTgwMDgzMTg0MzE@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Grand Budapest Hotel",
+        "synopsis": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+        "year": 2014,
+        "duration": 99,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Gone Girl",
+        "synopsis": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+        "year": 2014,
+        "duration": 149,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Hacksaw Ridge",
+        "synopsis": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+        "year": 2016,
+        "duration": 139,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Inside Out",
+        "synopsis": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "year": 2015,
+        "duration": 95,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "12 Years a Slave",
+        "synopsis": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+        "year": 2013,
+        "duration": 134,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Rush",
+        "synopsis": "The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.",
+        "year": 2013,
+        "duration": 123,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Ford v Ferrari",
+        "synopsis": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.",
+        "year": 2019,
+        "duration": 152,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Spotlight",
+        "synopsis": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.",
+        "year": 2015,
+        "duration": 129,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Help",
+        "synopsis": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+        "year": 2011,
+        "duration": 146,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Prisoners",
+        "synopsis": "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+        "year": 2013,
+        "duration": 153,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Mad Max: Fury Road",
+        "synopsis": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.",
+        "year": 2015,
+        "duration": 120,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Gran Torino",
+        "synopsis": "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+        "year": 2008,
+        "duration": 116,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "synopsis": "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+        "year": 2011,
+        "duration": 130,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyZGU4YzUtNDkzYi00ZDRhLTljYzctYTMxMDQ4M2E0Y2YxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Shutter Island",
+        "synopsis": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+        "year": 2010,
+        "duration": 138,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Hachi: A Dog's Tale",
+        "synopsis": "A college professor bonds with an abandoned dog he takes into his home.",
+        "year": 2009,
+        "duration": 93,
+        "rating": 8.1,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Mary and Max",
+        "synopsis": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.",
+        "year": 2009,
+        "duration": 92,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "How to Train Your Dragon",
+        "synopsis": "A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.",
+        "year": 2010,
+        "duration": 98,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Into the Wild",
+        "synopsis": "After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life.",
+        "year": 2007,
+        "duration": 148,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTAwNDEyODU1MjheQTJeQWpwZ15BbWU2MDc3NDQwNw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "No Country for Old Men",
+        "synopsis": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
+        "year": 2007,
+        "duration": 122,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Million Dollar Baby",
+        "synopsis": "A determined woman works with a hardened boxing trainer to become a professional.",
+        "year": 2004,
+        "duration": 132,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Hotel Rwanda",
+        "synopsis": "Paul Rusesabagina was a hotel manager who housed over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda.",
+        "year": 2004,
+        "duration": 121,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Memories of Murder",
+        "synopsis": "In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.",
+        "year": 2003,
+        "duration": 132,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhlNGJhYzUtZTNiMi00MjI0LWFjN2MtOTVlN2IxODVkZWVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Kill Bill: Vol. 1",
+        "synopsis": "After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.",
+        "year": 2003,
+        "duration": 111,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Finding Nemo",
+        "synopsis": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+        "year": 2003,
+        "duration": 100,
+        "rating": 8.1,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Catch Me If You Can",
+        "synopsis": "A seasoned FBI agent pursues Frank Abagnale Jr. who, before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and a legal prosecutor.",
+        "year": 2002,
+        "duration": 141,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Amores Perros",
+        "synopsis": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+        "year": 2000,
+        "duration": 154,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJhOTg5MWQtYTJjMi00YmFkLTg4ODgtYmU2YWVhODQ4ZDM3XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Lagaan: Once Upon a Time in India",
+        "synopsis": "The people of a small village in Victorian India stake their future on a game of cricket against their ruthless British rulers.",
+        "year": 2001,
+        "duration": 224,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDYxNWUzZmYtOGQxMC00MTdkLTkxOTctYzkyOGIwNWQxZjhmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Sixth Sense",
+        "synopsis": "A boy who communicates with spirits seeks the help of a disheartened child psychologist.",
+        "year": 1999,
+        "duration": 107,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Truman Show",
+        "synopsis": "An insurance salesman discovers his whole life is actually a reality TV show.",
+        "year": 1998,
+        "duration": 103,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Big Lebowski",
+        "synopsis": "Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for his ruined rug and enlists his bowling buddies to help get it.",
+        "year": 1998,
+        "duration": 117,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "In the Mood for Love",
+        "synopsis": "Two neighbors, a woman and a man, form a strong bond after both suspect extramarital activities of their spouses. However, they agree to keep their bond platonic so as not to commit similar wrongs.",
+        "year": 2000,
+        "duration": 98,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjZjODRlMjQtMjJlYy00ZDBjLTkyYTQtZGQxZTk5NzJhYmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Trainspotting",
+        "synopsis": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+        "year": 1996,
+        "duration": 93,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Fargo",
+        "synopsis": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+        "year": 1996,
+        "duration": 98,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "La Haine",
+        "synopsis": "24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
+        "year": 1995,
+        "duration": 98,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDNiOTA5YjktY2Q0Ni00ODgzLWE5MWItNGExOWRlYjY2MjBlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Before Sunrise",
+        "synopsis": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+        "year": 1995,
+        "duration": 101,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Jurassic Park",
+        "synopsis": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+        "year": 1993,
+        "duration": 127,
+        "rating": 8.1,
+        "certificate": "PG-13",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "In the Name of the Father",
+        "synopsis": "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+        "year": 1993,
+        "duration": 133,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Dead Poets Society",
+        "synopsis": "English teacher John Keating inspires his students to look at poetry with a different perspective of authentic knowledge and feelings. -Camilo Alarcón",
+        "year": 1989,
+        "duration": 128,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Princess Bride",
+        "synopsis": "While home sick in bed, a young boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love.",
+        "year": 1987,
+        "duration": 98,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGM4M2Q5N2MtNThkZS00NTc1LTk1NTItNWEyZjJjNDRmNDk5XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Stand by Me",
+        "synopsis": "After the death of one of his friends, a writer recounts a boyhood journey with his friends to find the body of a missing boy.",
+        "year": 1986,
+        "duration": 89,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Platoon",
+        "synopsis": "A young soldier in Vietnam faces a moral crisis when confronted with the horrors of war and the duality of man.",
+        "year": 1986,
+        "duration": 120,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Y1NTQyNWYtNDViNy00ZWRhLTk3MTMtOTI3ZGQ5MDFiNWM4XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Paris, Texas",
+        "synopsis": "Travis Henderson, an aimless drifter who has been missing for four years, wanders out of the desert and must reconnect with society, himself, his life, and his family.",
+        "year": 1984,
+        "duration": 145,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Nausicaä of the Valley of the Wind",
+        "synopsis": "Warrior and pacifist Princess Nausicaä desperately struggles to prevent two warring nations from destroying themselves and their dying planet.",
+        "year": 1984,
+        "duration": 117,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFkN2ZhODAtYTNkZS00Y2NjLWIzNDYtNzJjNDNlMzAyNTIyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Thing",
+        "synopsis": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+        "year": 1982,
+        "duration": 109,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDcyZmFjY2YtN2I1OC00MzU3LWIzZGEtZDA5N2VlNDJjYWI3L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Blade Runner",
+        "synopsis": "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+        "year": 1982,
+        "duration": 117,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Elephant Man",
+        "synopsis": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.",
+        "year": 1980,
+        "duration": 124,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Monty Python's Life of Brian",
+        "synopsis": "Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth (Graham Chapman) spends his life being mistaken for a messiah.",
+        "year": 1979,
+        "duration": 94,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzAwNjU1OTktYjY3Mi00NDY5LWFlZWUtZjhjNGE0OTkwZDkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Deer Hunter",
+        "synopsis": "An in-depth examination of the ways in which the U.S. Vietnam War impacts and disrupts the lives of people in a small industrial town in Pennsylvania.",
+        "year": 1978,
+        "duration": 183,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Rocky",
+        "synopsis": "A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.",
+        "year": 1976,
+        "duration": 120,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY5MDMzODUyOF5BMl5BanBnXkFtZTcwMTQ3NTMyNA@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Network",
+        "synopsis": "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit.",
+        "year": 1976,
+        "duration": 121,
+        "rating": 8.1,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmFiOWY3ZTktOTYwNy00ZTUzLTk0ODQtNzIxMzQ0ZDFjMTgyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Barry Lyndon",
+        "synopsis": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+        "year": 1975,
+        "duration": 185,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Cool Hand Luke",
+        "synopsis": "A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.",
+        "year": 1967,
+        "duration": 127,
+        "rating": 8.1,
+        "certificate": "GP",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWFlNzZhYmYtYTI5YS00MDQyLWIyNTUtNTRjMWUwNTEzNjA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Persona",
+        "synopsis": "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+        "year": 1966,
+        "duration": 83,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTM0YzExY2EtMjUyZi00ZmIwLWFkYTktNjY5NmVkYTdkMjI5XkEyXkFqcGdeQXVyNzQxNDExNTU@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The 400 Blows",
+        "synopsis": "A young boy, left without attention, delves into a life of petty crime.",
+        "year": 1959,
+        "duration": 99,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmU3ZTk0NzgtZWIxNy00YzRkLWFkOTctMDNmMDA1MjYyYjI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY98_CR1,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Ben-Hur",
+        "synopsis": "After a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.",
+        "year": 1959,
+        "duration": 212,
+        "rating": 8.1,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Throne of Blood",
+        "synopsis": "A war-hardened general, egged on by his ambitious wife, works to fulfill a prophecy that he would become lord of Spider's Web Castle.",
+        "year": 1957,
+        "duration": 110,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGYxZjA2M2ItYTRmNS00NzRmLWJkYzgtYTdiNGFlZDI5ZjNmXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Bridge on the River Kwai",
+        "synopsis": "British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors, not knowing that the allied forces are planning to destroy it.",
+        "year": 1957,
+        "duration": 161,
+        "rating": 8.1,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGVhNjhjODktODgxYS00MDdhLTlkZjktYTkyNzQxMTU0ZDYxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "On the Waterfront",
+        "synopsis": "An ex-prize fighter turned longshoreman struggles to stand up to his corrupt union bosses.",
+        "year": 1954,
+        "duration": 108,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Wages of Fear",
+        "synopsis": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
+        "year": 1953,
+        "duration": 131,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Ace in the Hole",
+        "synopsis": "A frustrated former big-city journalist now stuck working for an Albuquerque newspaper exploits a story about a man trapped in a cave to rekindle his career, but the situation quickly escalates into an out-of-control circus.",
+        "year": 1951,
+        "duration": 111,
+        "rating": 8.1,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDUzZjlhZTYtN2E5MS00ODQ3LWI1ZjgtNzdiZmI0NTZiZTljXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Third Man",
+        "synopsis": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+        "year": 1949,
+        "duration": 93,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Rebecca",
+        "synopsis": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+        "year": 1940,
+        "duration": 130,
+        "rating": 8.1,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY98_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington",
+        "synopsis": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+        "year": 1939,
+        "duration": 129,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Gone with the Wind",
+        "synopsis": "A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.",
+        "year": 1939,
+        "duration": 238,
+        "rating": 8.1,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "It Happened One Night",
+        "synopsis": "A spoiled heiress running away from her family is helped by a man who is actually a reporter in need of a story.",
+        "year": 1934,
+        "duration": 105,
+        "rating": 8.1,
+        "certificate": "Approved",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Passion of Joan of Arc",
+        "synopsis": "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+        "year": 1928,
+        "duration": 114,
+        "rating": 8.1,
+        "certificate": "Not Rated",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The General",
+        "synopsis": "When Union spies steal an engineer's beloved locomotive, he pursues it single-handedly and straight through enemy lines.",
+        "year": 1926,
+        "duration": 67,
+        "rating": 8.1,
+        "certificate": "Passed",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Before Sunset",
+        "synopsis": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+        "year": 2004,
+        "duration": 80,
+        "rating": 8,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Monsters, Inc.",
+        "synopsis": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think.",
+        "year": 2001,
+        "duration": 92,
+        "rating": 8,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Aladdin",
+        "synopsis": "A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+        "year": 1992,
+        "duration": 90,
+        "rating": 8,
+        "certificate": "G",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Akira",
+        "synopsis": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath who can only be stopped by two teenagers and a group of psychics.",
+        "year": 1988,
+        "duration": 124,
+        "rating": 8,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2ZiZTk1ODgtMTZkNS00NTYxLWIxZTUtNWExZGYwZTRjODViXkEyXkFqcGdeQXVyMTE2MzA3MDM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "The Terminator",
+        "synopsis": "In 1984, a human soldier is tasked to stop an indestructible cyborg killing machine, both sent from 2029, from executing a young woman, whose unborn son is the key to humanity's future salvation.",
+        "year": 1984,
+        "duration": 107,
+        "rating": 8,
+        "certificate": "R",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid",
+        "synopsis": "Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia.",
+        "year": 1969,
+        "duration": 110,
+        "rating": 8,
+        "certificate": "PG",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyMTM2NDk5Nl5BMl5BanBnXkFtZTgwNzY1NzEyMDE@._V1_UX67_CR0,0,67,98_AL_.jpg"
+    }
+]
