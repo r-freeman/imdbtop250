@@ -18,7 +18,7 @@ class MovieController extends Controller
         $movies = Movie::all();
 
         return response()
-            ->json(["data" => $movies], 200, [], JSON_UNESCAPED_SLASHES);
+            ->json($movies, 200, [], JSON_UNESCAPED_SLASHES);
     }
 
     /**
